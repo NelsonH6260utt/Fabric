@@ -14,6 +14,8 @@ import (
 // Personal fork notes:
 //   - Using this for experimenting with custom AI patterns and local LLM workflows.
 //   - See the patterns/ directory for any custom patterns I've added.
+//   - Primary use case: summarization and research assistance with local Ollama models.
+//   - Fork maintained at: github.com/myusername/fabric
 func main() {
 	if err := cli.Run(os.Args); err != nil {
 		fmt.Fprintf(os.Stderr, "Error: %v\n", err)
