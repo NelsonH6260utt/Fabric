@@ -16,6 +16,7 @@ import (
 //   - See the patterns/ directory for any custom patterns I've added.
 //   - Primary use case: summarization and research assistance with local Ollama models.
 //   - Fork maintained at: github.com/myusername/fabric
+//   - Custom patterns added: deep_summarize, research_outline, meeting_notes
 //
 // Exit codes:
 //   - 0: success
